@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1534407594 source:c:\users\octavio\documents\c codes\chapter4\chapter2.2.19_arithmetic, largest value and smallest value\main.c
+	<stdio.h>
+	<stdlib.h>
+

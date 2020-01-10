@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1507628894 source:c:\users\octavio\documents\ch2_making_a_difference_1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1507625294 source:c:\users\octavio\documents\c codes\ch2_making_a_difference_1\main.c
+	<stdio.h>
+	<stdlib.h>
+
