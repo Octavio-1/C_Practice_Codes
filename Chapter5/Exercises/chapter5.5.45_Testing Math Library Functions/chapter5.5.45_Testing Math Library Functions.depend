@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1541685599 source:c:\users\octavio\documents\c codes\chapter4\chapter5.5.45_testing math library functions\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1536858087 source:c:\users\octavio\documents\c codes\chapter4\chapter5_5.11_rounding numbers2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

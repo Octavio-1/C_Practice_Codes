@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1510336491 source:c:\users\octavio\documents\chapter5_makin_a_difference_cai_reduced_student_fatigue\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1510336491 source:c:\users\octavio\documents\c codes\chapter5_makin_a_difference_cai_reduced_student_fatigue\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1510336491 source:c:\users\octavio\documents\c codes\chapter5\making a difference\chapter5_makin_a_difference_cai_reduced_student_fatigue\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1510353650 source:c:\users\octavio\documents\chapter5_making_a_difference_cai_difficulty_levels\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1510353650 source:c:\users\octavio\documents\c codes\chapter5\making a difference\chapter5_making_a_difference_cai_difficulty_levels\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

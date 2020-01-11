@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1508857223 source:c:\users\octavio\documents\chapter5_mkaing_a _difference_globalwarming\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1516181238 source:c:\users\octavio\documents\c codes\chapter5_mkaing_a _difference_globalwarming\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1516182112 source:c:\users\octavio\documents\c codes\chapter5\making a difference\chapter5_mkaing_a _difference_globalwarming\main.c
+	<stdio.h>
+	<stdlib.h>
+

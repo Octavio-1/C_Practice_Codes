@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1538404861 source:c:\users\octavio\documents\c codes\chapter4\chapter5_5.22_separating digits\main.c
+	<stdio.h>
+	<stdlib.h>
+

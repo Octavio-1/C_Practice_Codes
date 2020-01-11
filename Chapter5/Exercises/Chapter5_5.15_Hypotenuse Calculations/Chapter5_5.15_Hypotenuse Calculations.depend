@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1521363215 source:c:\users\octavio\documents\c codes\chapter4\chapter5_5.15_hypotenuse calculations\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

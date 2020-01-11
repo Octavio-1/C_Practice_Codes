@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1541014626 source:c:\users\octavio\documents\c codes\chapter4\chapter5.5.32_guess the number\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1541793583 source:c:\users\octavio\documents\c codes\chapter5\exercises\chapter5.5.32_guess the number\main.c
+	<stdio.h>
+	<stdlib.h>
+

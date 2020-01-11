@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1541601003 source:c:\users\octavio\documents\c codes\chapter4\chapter5.5.41_distance between points\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1541792034 source:c:\users\octavio\documents\c codes\chapter4\chapter5.5.47_craps game modification\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

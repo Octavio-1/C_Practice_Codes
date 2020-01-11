@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1541078418 source:c:\users\octavio\documents\c codes\chapter4\chapter5.5.35_fibonacci\main.c
+	<stdio.h>
+	<stdlib.h>
+

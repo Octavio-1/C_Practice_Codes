@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1519559547 source:c:\users\octavio\documents\c codes\chapter4\chapter5_5.8_differing_values_of_x\main.c
+	<stdio.h>
+	<stdlib.h>
+
