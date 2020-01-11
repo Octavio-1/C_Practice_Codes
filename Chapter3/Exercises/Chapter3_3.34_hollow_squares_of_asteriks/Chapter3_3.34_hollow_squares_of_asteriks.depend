@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1515970729 source:c:\users\octavio\documents\c codes\chapter3\chapter3_3.34_hollow_squares_of_asteriks\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1515770221 source:c:\users\octavio\documents\c codes\chapter3\chapter3_3.35_palindrome_tester\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1535032421 source:c:\users\octavio\documents\c codes\chapter3\exercises\chapter3_3.35_palindrome_tester\main.c
+	<stdio.h>
+	<stdlib.h>
+

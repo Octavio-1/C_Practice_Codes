@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1507588243 source:c:\users\octavio\documents\ch_3_making_a_difference_heartrate\main.c
+	<stdio.h>
+	<stdlib.h>
+

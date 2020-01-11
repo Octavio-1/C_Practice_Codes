@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1516052033 source:c:\users\octavio\documents\c codes\chapter3\chapter3_3.43_what_is_wrong_with_the_statement\main.c
+	<stdio.h>
+	<stdlib.h>
+

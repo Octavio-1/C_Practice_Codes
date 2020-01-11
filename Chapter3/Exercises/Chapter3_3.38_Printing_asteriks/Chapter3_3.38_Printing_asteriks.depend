@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1516026063 source:c:\users\octavio\documents\c codes\chapter3\chapter3_3.38_printing_asteriks\main.c
+	<stdio.h>
+	<stdlib.h>
+

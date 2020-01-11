@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1535024749 source:c:\users\octavio\documents\c codes\chapter3\chapter3_3.20_interest_calculator\main.c
+	<stdio.h>
+	<stdlib.h>
+

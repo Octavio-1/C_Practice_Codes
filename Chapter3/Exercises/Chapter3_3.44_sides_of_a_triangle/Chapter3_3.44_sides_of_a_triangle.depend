@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1516020916 source:c:\users\octavio\documents\c codes\chapter3\chapter3_3.44_sides_of_a_triangle\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

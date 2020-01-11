@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1515399919 source:c:\users\octavio\documents\c codes\chapter3_3.18_credit_limit_calculator\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1515405679 source:c:\users\octavio\documents\c codes\chapter3\chapter3_3.18_credit_limit_calculator\main.c
+	<stdio.h>
+	<stdlib.h>
+

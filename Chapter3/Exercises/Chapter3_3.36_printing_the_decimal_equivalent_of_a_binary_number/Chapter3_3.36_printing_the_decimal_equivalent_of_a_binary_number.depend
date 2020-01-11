@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1516026784 source:c:\users\octavio\documents\c codes\chapter3\chapter3_3.36_printing_the_decimal_equivalent_of_a_binary_number\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1507590539 source:c:\users\octavio\documents\ch3_making_a_difference_cryptographer\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1535040461 source:c:\users\octavio\documents\c codes\ch3_making_a_difference_cryptographer\main.c
+	<stdio.h>
+	<stdlib.h>
+

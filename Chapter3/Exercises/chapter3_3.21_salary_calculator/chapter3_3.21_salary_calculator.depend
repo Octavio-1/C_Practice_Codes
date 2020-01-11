@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1515409305 source:c:\users\octavio\documents\c codes\chapter3\chapter3_3.21_salary_calculator\main.c
+	<stdio.h>
+	<stdlib.h>
+

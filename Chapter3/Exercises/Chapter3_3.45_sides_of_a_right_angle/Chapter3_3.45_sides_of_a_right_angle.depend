@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1515892070 source:c:\users\octavio\documents\c codes\chapter3\chapter3_3.45_sides_of_a_right_angle\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

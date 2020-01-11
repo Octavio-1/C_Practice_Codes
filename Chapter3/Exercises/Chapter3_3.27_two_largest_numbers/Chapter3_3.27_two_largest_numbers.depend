@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1515580262 source:c:\users\octavio\documents\c codes\chapter3\chapter3_3.27_two_largest_numbers\main.c
+	<stdio.h>
+	<stdlib.h>
+

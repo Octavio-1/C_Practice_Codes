@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1515753294 source:c:\users\octavio\documents\c codes\chapter3\chapter3_3.32_another_dangling _else_problem(a)\main.c
+	<stdio.h>
+	<stdlib.h>
+
