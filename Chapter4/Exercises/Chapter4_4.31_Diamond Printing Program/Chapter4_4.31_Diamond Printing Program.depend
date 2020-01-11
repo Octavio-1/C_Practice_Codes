@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1519061183 source:c:\users\octavio\documents\c codes\chapter4\chapter4_4.31_diamond printing program\main.c
+	<stdio.h>
+	<stdlib.h>
+

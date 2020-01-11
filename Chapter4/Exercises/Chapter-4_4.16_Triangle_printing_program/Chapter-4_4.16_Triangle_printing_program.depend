@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1516994249 source:c:\users\octavio\documents\c codes\chapter4\chapter-4_4.16_triangle_printing_program\main.c
+	<stdio.h>
+	<stdlib.h>
+

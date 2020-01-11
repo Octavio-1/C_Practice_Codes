@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1536066218 source:c:\users\octavio\documents\c codes\chapter4\chapter4_4.27_pythagorean triples\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

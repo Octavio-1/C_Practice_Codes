@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1516220449 source:c:\users\octavio\documents\c codes\chapter3\chapter4_4.9_sum_of_a_sequence_of_integers\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1516221406 source:c:\users\octavio\documents\c codes\chapter4\chapter4_4.9_sum_of_a_sequence_of_integers\main.c
+	<stdio.h>
+	<stdlib.h>
+

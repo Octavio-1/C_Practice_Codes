@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1518679211 source:c:\users\octavio\documents\c codes\chapter4\chapter4_4.34_replacing_do_while_with_while\main.c
+	<stdio.h>
+	<stdlib.h>
+

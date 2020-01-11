@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1517250626 source:c:\users\octavio\documents\c codes\chapter4\chapter4_4.21_rewriting_fig_4.2\main.c
+	<stdio.h>
+	<stdlib.h>
+

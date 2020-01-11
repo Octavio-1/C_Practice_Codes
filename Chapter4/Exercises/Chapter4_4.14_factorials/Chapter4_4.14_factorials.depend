@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1516917742 source:c:\users\octavio\documents\c codes\chapter4\chapter4_4.14_factorials\main.c
+	<stdio.h>
+	<stdlib.h>
+

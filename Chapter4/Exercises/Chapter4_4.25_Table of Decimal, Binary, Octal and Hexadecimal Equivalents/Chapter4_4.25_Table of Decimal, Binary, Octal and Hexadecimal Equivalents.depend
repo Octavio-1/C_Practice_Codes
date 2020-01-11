@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1535617649 source:c:\users\octavio\documents\c codes\chapter4\chapter4_4.25_table of decimal, binary, octal and hexadecimal equivalents\main.c
+	<stdio.h>
+	<stdlib.h>
+

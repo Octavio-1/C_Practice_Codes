@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1516218804 source:c:\users\octavio\documents\c codes\chapter3\chapter4_4.8_what_does_the_program_do\main.c
+	<stdio.h>
+	<stdlib.h>
+

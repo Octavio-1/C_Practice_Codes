@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1516211461 source:c:\users\octavio\documents\c codes\chapter3\chapter4_4.4_while_loop_printing\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1516212799 source:c:\users\octavio\documents\c codes\chapter4\chapter4_4.3_while_loop_printing\main.c
+	<stdio.h>
+	<stdlib.h>
+

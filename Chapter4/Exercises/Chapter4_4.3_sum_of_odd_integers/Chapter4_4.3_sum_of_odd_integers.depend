@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1516191573 source:c:\users\octavio\documents\c codes\chapter3\chapter4_4.3_sum_of_odd_integers\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1516194318 source:c:\users\octavio\documents\c codes\chapter4\chapter4_4.3_sum_of_odd_integers\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1516200383 source:c:\users\octavio\documents\c codes\chapter4\chapter4_4.3_printing_floats\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

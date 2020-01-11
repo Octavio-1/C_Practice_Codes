@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1535531543 source:c:\users\octavio\documents\c codes\chapter4\chapter4_4.17_calculating_credit_limits\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1519553119 source:c:\users\octavio\documents\c codes\chapter4\chapter4_4.22_average_grade\main.c
+	<stdio.h>
+	<stdlib.h>
+
